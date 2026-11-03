@@ -1,15 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.16",
+  "semantic_version": "0.1.18",
   "notes": [
-    "Майнер тепер оновлюється сам: натисни «Оновити зараз» — і за кілька секунд працюватиме нова версія.",
-    "Можна ввімкнути автоматичне оновлення в інсталяторі або в налаштуваннях майнера.",
-    "Про нову версію з’являється сповіщення в треї з описом, що виправлено."
+    "Надійніше підключення Twitch: якщо перевірка входу не спрацювала, майнер сам пробує інший спосіб.",
+    "Нова кнопка «Надіслати звіт автору»: звіт копіюється, і відкривається Telegram автора — просто встав і надішли."
   ],
   "important": false,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.16/Lazerok07-WoT-Drops-Setup-v0.1.16.exe",
-    "sha256": "2ae58e851b8522f614b15eb4d851b1a51c8834e114513349b14023b32e575786",
-    "size": 28335616
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.18/Lazerok07-WoT-Drops-Setup-v0.1.18.exe",
+    "sha256": "6974aeb552b2e22f06b2806c666f4d234bf05efa9d15600d1dd371901f9b2cf2",
+    "size": 27887104
   }
 }
