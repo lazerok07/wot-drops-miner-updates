@@ -1,12 +1,10 @@
 {
-  "version": 142,
-  "displayVersion": "0.0.36",
+  "version": 143,
+  "displayVersion": "0.0.37",
   "notes": [
-    "Приціл LazerMods 0.6.1: у «Лінії фронту» під резервом «Артилерійський удар» знову видно коло удару, а в його центрі — центр прицілу LazerMods (той вигляд, що вибрано в редакторі) для точного наведення.",
-    "Виправлено дві смуги HP угорі: PMOD більше не малює свою смугу HP команд під смугою LazerMods (вимикається й у тих, хто оновлюється).",
-    "Прибрано службову бібліотеку старих прицілів INQ (crosshairs_api): ці приціли вже не входять у модпак, а бібліотека лишалась без потреби. При оновленні видаляється."
+    "Новий додатковий мод «Кольори LazerMods»: совзводного видно здалеку — іконка танку, нік і назва техніки на його маркері золоті. Колір (і окремо кольори союзників та противників) змінюється в mods\\configs\\lazermods\\colors.json. Вмикається…"
   ],
   "download": "https://t.me/lazerok07/1599",
-  "file": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/modpack-0.0.36/Lazerok07-Modpack-Setup-2.4.1-0.0.36.exe",
-  "sha256": "70AB0AD93AC6BE9ABEC15CA18FE16C8F1A0601696EB56863191CA8FC4AAEBED8"
+  "file": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/modpack-0.0.37/Lazerok07-Modpack-Setup-2.4.1-0.0.37.exe",
+  "sha256": "06814FD6012934D112901D6E2160E7D339EA56239E5462321FB32BF9026675F5"
 }
