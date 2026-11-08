@@ -1,14 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.25",
+  "semantic_version": "0.1.26",
   "notes": [
-    "Вхід у Twitch працює, навіть якщо вікно браузера майнера лишилося відкритим (особливо Edge): майнер дочекається, поки його закриєш.",
-    "На головному екрані кнопка «Щось не працює? Надіслати звіт автору» — звіт тепер допомагає знайти й інші проблеми, не лише з входом."
+    "Виправлено вхід, коли браузер майнера «завис» у фоні без вікна (часто з Edge): майнер сам закриває свій залишковий браузер і продовжує вхід. Твій звичайний браузер не чіпається.",
+    "Кнопка «Щось не працює?» тепер створює архів звіту на робочому столі — просто перетягни його в чат Telegram."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.25/Lazerok07-WoT-Drops-Setup-v0.1.25.exe",
-    "sha256": "5ba826688ee3a220fabfadae419e3bd8fd9f7376a0dc8e89476a3fce2ceb79d0",
-    "size": 28418048
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.26/Lazerok07-WoT-Drops-Setup-v0.1.26.exe",
+    "sha256": "119d8723a9d80860f6f14a00f44379cc7d04ac17c728a18d3fc5a3b730f55f61",
+    "size": 29437440
   }
 }
