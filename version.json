@@ -1,14 +1,13 @@
 {
   "version": 73,
-  "semantic_version": "0.1.29",
+  "semantic_version": "0.1.30",
   "notes": [
-    "Після ввімкнення ПК майнер одразу сам підтверджує вхід у Twitch (на кілька секунд відкриває вікно й повертає фокус) — збір починається без натискань. Під час гри вікно не відкривається.",
-    "Вікно автоматичного підтвердження більше не залишається висіти, коли ти граєш чи працюєш в іншій програмі."
+    "Після ввімкнення ПК майнер завжди одразу підтверджує вхід у Twitch — навіть якщо ти вже запустив гру (вікно з’явиться на кілька секунд і закриється само)."
   ],
   "important": false,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.29/Lazerok07-WoT-Drops-Setup-v0.1.29.exe",
-    "sha256": "f164d77462c7614d5e5e791bb34bb27cca3bc13a52dbf6b8b9934e299aa87ed1",
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.30/Lazerok07-WoT-Drops-Setup-v0.1.30.exe",
+    "sha256": "802a52f0205499b2edd544241c2c4a23959c0e93752fd6d68179b6914e616034",
     "size": 29448192
   }
 }
