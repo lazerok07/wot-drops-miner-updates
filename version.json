@@ -1,13 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.31",
+  "semantic_version": "0.1.32",
   "notes": [
-    "У налаштуваннях можна вибрати, як часто перевіряти нові кампанії: кожні 15 хв, 30 хв, 1 год або 2 год (⚙ → «Збір і комп’ютер»)."
+    "Битва блогерів: вступай у команду Lazerok07 — кнопка «Вступити» прямо на головному екрані майнера.",
+    "Отримані нагороди з однаковою назвою більше не дублюються (наприклад, «Consumables» і «consumables»)."
   ],
-  "important": false,
+  "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.31/Lazerok07-WoT-Drops-Setup-v0.1.31.exe",
-    "sha256": "a8c6ab4f8d661ffa4e35e57ef23d826bcee93b637e6cdccaa774e2f6c6ef8f09",
-    "size": 29450752
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.32/Lazerok07-WoT-Drops-Setup-v0.1.32.exe",
+    "sha256": "86cee098468c664d8cb982018d355c9e80109b0e8dd42f86515a80d431237fbd",
+    "size": 29455360
   }
 }
