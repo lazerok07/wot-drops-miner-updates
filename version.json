@@ -1,14 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.32",
+  "semantic_version": "0.1.33",
   "notes": [
-    "Битва блогерів: вступай у команду Lazerok07 — кнопка «Вступити» прямо на головному екрані майнера.",
-    "Отримані нагороди з однаковою назвою більше не дублюються (наприклад, «Consumables» і «consumables»)."
+    "Після ввімкнення ПК майнер надійно підключається до Twitch сам: вікно браузера відкривається на кілька секунд і закривається, а не лишається висіти.",
+    "Плавна анімація під час перевірки кампаній — кільце крутиться без підгальмовувань."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.32/Lazerok07-WoT-Drops-Setup-v0.1.32.exe",
-    "sha256": "86cee098468c664d8cb982018d355c9e80109b0e8dd42f86515a80d431237fbd",
-    "size": 29455360
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.33/Lazerok07-WoT-Drops-Setup-v0.1.33.exe",
+    "sha256": "3a0c4f4f4a821b6a226312b7757dec2cba7a7b95b10685d6f439db554f907b36",
+    "size": 29457408
   }
 }
