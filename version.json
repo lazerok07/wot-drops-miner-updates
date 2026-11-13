@@ -1,13 +1,15 @@
 {
   "version": 73,
-  "semantic_version": "0.1.34",
+  "semantic_version": "0.1.35",
   "notes": [
-    "Надійніше підключення до Twitch: якщо прихована перевірка не проходить, майнер одразу повторює її у згорнутому браузері (не під час гри)."
+    "Якщо Twitch не приймає профіль Chrome майнера, кнопка «Підключити Twitch» запропонує вхід через Edge у новому профілі.",
+    "Вхід через Edge більше не обривається одразу після відкриття вікна.",
+    "Детальніший звіт для автора: легше знайти, чому не вдається підключитися."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.34/Lazerok07-WoT-Drops-Setup-v0.1.34.exe",
-    "sha256": "1cac59f397b2eb0ec4da0e56551d32b92667d6f9d7e77341ef1f4cafbb661e66",
-    "size": 29457920
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.35/Lazerok07-WoT-Drops-Setup-v0.1.35.exe",
+    "sha256": "dc70f0cc5c4ba55b269e3abecd57a38f4787151d0eaa6d1169de82a477492ad2",
+    "size": 29467136
   }
 }
