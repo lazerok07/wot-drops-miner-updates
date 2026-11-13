@@ -1,13 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.36",
+  "semantic_version": "0.1.37",
   "notes": [
-    "Вхід через Edge: перевірка більше не зривається, якщо Edge ще працює у фоні після закриття вікна."
+    "Вхід через Edge: вікно закривається само, якщо Twitch уже увійдений, а завислий фоновий Edge прибирається перед перевіркою.",
+    "Зрозуміліші підказки, коли браузер майнера ще працює, і коротший звіт для автора з підсумком підключення."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.36/Lazerok07-WoT-Drops-Setup-v0.1.36.exe",
-    "sha256": "734f5e7d09a34d13506936212bacf5b8aa80100b7e1b04194d37940cd44cc8cc",
-    "size": 29467648
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.37/Lazerok07-WoT-Drops-Setup-v0.1.37.exe",
+    "sha256": "17d13620a62d17f835df77a5e0d1365516da18664a41a368d462bc26fac29eb9",
+    "size": 29468160
   }
 }
