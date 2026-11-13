@@ -1,14 +1,13 @@
 {
   "version": 73,
-  "semantic_version": "0.1.33",
+  "semantic_version": "0.1.34",
   "notes": [
-    "Після ввімкнення ПК майнер надійно підключається до Twitch сам: вікно браузера відкривається на кілька секунд і закривається, а не лишається висіти.",
-    "Плавна анімація під час перевірки кампаній — кільце крутиться без підгальмовувань."
+    "Надійніше підключення до Twitch: якщо прихована перевірка не проходить, майнер одразу повторює її у згорнутому браузері (не під час гри)."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.33/Lazerok07-WoT-Drops-Setup-v0.1.33.exe",
-    "sha256": "3a0c4f4f4a821b6a226312b7757dec2cba7a7b95b10685d6f439db554f907b36",
-    "size": 29457408
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.34/Lazerok07-WoT-Drops-Setup-v0.1.34.exe",
+    "sha256": "1cac59f397b2eb0ec4da0e56551d32b92667d6f9d7e77341ef1f4cafbb661e66",
+    "size": 29457920
   }
 }
