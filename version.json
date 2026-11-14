@@ -1,14 +1,15 @@
 {
   "version": 73,
-  "semantic_version": "0.1.37",
+  "semantic_version": "0.1.38",
   "notes": [
-    "Вхід через Edge: вікно закривається само, якщо Twitch уже увійдений, а завислий фоновий Edge прибирається перед перевіркою.",
-    "Зрозуміліші підказки, коли браузер майнера ще працює, і коротший звіт для автора з підсумком підключення."
+    "Якщо майнер пів години не може підключитися до Twitch, він запропонує одним натиском зібрати звіт для автора.",
+    "Майнер перевіряє, що отримана нагорода справді зарахована в інвентарі Twitch, і за потреби тихо повторює.",
+    "Тихіший старт ПК: вікно браузера відкривається, лише якщо Twitch справді просить підтвердити вхід."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.37/Lazerok07-WoT-Drops-Setup-v0.1.37.exe",
-    "sha256": "17d13620a62d17f835df77a5e0d1365516da18664a41a368d462bc26fac29eb9",
-    "size": 29468160
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.38/Lazerok07-WoT-Drops-Setup-v0.1.38.exe",
+    "sha256": "f0256e2634f4b01a4447dc3659fe3d58c4478f6aaab26c1a4c4fff6abc9d1740",
+    "size": 29470720
   }
 }
