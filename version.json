@@ -1,15 +1,14 @@
 {
   "version": 73,
-  "semantic_version": "0.1.39",
+  "semantic_version": "0.1.40",
   "notes": [
-    "Календар дропсів: анонси автора в майнері, а в момент старту кампанії майнер сам перевіряє її кілька разів — нові дропси підхоплюються без натискань.",
-    "Картка модпака Lazerok07: чи встановлено, чи є оновлення, і що нового.",
-    "Сповіщення про нові дропси — за бажанням (Налаштування → Сповіщення)."
+    "Анонси дропсів тепер видно: коли кампаній немає, права панель показує найближчі дати.",
+    "Майнер сам перевіряє кампанії в момент старту анонсованих дропсів — збір почнеться без натискань."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.39/Lazerok07-WoT-Drops-Setup-v0.1.39.exe",
-    "sha256": "9010ec9c280776d66a48515e578f19a12d18a8c616cc589ad1945b8a1d1507de",
-    "size": 29484544
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.40/Lazerok07-WoT-Drops-Setup-v0.1.40.exe",
+    "sha256": "77f079a18ad7ba51b4e22b683c7cba178f584f1c3ff10d11772fbc6c61a6d756",
+    "size": 29489664
   }
 }
