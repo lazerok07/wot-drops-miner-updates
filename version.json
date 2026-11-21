@@ -1,14 +1,15 @@
 {
   "version": 73,
-  "semantic_version": "0.1.40",
+  "semantic_version": "0.1.41",
   "notes": [
-    "Анонси дропсів тепер видно: коли кампаній немає, права панель показує найближчі дати.",
-    "Майнер сам перевіряє кампанії в момент старту анонсованих дропсів — збір почнеться без натискань."
+    "Запасний вхід кодом (Налаштування → Twitch): коли браузерний вхід не працює — код уже скопійовано, сторінка twitch.tv/activate відкривається з ним, лишається підтвердити.",
+    "Анонси дропсів картками з відліком до старту, прогрес кампанії в хвилинах, «сьогодні +N».",
+    "Кнопка прив’язки акаунта WoT до Twitch і короткі кроки для нових глядачів."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.40/Lazerok07-WoT-Drops-Setup-v0.1.40.exe",
-    "sha256": "77f079a18ad7ba51b4e22b683c7cba178f584f1c3ff10d11772fbc6c61a6d756",
-    "size": 29489664
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.41/Lazerok07-WoT-Drops-Setup-v0.1.41.exe",
+    "sha256": "7eca1744229e0ad19595b243f98af2c514943e0246494d0d4f81fcdd45165a19",
+    "size": 29499392
   }
 }
