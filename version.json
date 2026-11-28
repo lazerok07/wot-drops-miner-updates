@@ -1,14 +1,13 @@
 {
   "version": 73,
-  "semantic_version": "0.1.43",
+  "semantic_version": "0.1.44",
   "notes": [
-    "Видно всі нагороди, що набираються одночасно: кожна з іконкою, прогресом і часом до отримання.",
-    "Випадкові нагороди (Mystery Drop) позначені, а посилання «Що може випасти?» відкриває сторінку WG з переліком."
+    "Виправлено для нового Chrome 158: майнер знову сам відновлює підключення до Twitch і не зупиняє збір."
   ],
   "important": true,
   "installer": {
-    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.43/Lazerok07-WoT-Drops-Setup-v0.1.43.exe",
-    "sha256": "bb578383cc10cd0ded39d05463715977f345c2f20a21170bd8427f9bcf3b21f2",
-    "size": 29503488
+    "url": "https://github.com/lazerok07/wot-drops-miner-updates/releases/download/v0.1.44/Lazerok07-WoT-Drops-Setup-v0.1.44.exe",
+    "sha256": "0eea67aa4095c0556f03c3f601a007805175e99c1560bd3ed074497d504b54e2",
+    "size": 29505536
   }
 }
